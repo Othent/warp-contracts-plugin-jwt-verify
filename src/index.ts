@@ -11,4 +11,3 @@ export class JWTVerifyPlugin implements WarpPlugin<any, void> {
     return 'smartweave-extension-jwt-verify';
   }
 }
-
