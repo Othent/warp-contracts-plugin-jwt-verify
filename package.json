@@ -1,0 +1,28 @@
+{
+  "name": "warp-contracts-plugin-jwt-verify",
+  "version": "1.0.0",
+  "description": "A warp-contracts plugin that allows you to verify the validity of a JSON web token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Othent/warp-contracts-plugin-jwt-verify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Othent/warp-contracts-plugin-jwt-verify/issues"
+  },
+  "homepage": "https://github.com/Othent/warp-contracts-plugin-jwt-verify#readme",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0",
+    "warp-contracts": "^1.4.7",
+    "warp-contracts-plugin-deploy": "^1.0.8"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.2"
+  }
+}
