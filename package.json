@@ -1,6 +1,6 @@
 {
   "name": "@othent/warp-contracts-plugin-jwt-verify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A warp-contracts plugin that allows you to verify the validity of a JSON web token",
   "main": "src/index.ts",
   "scripts": {
