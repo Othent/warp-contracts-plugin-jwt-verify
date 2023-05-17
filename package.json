@@ -1,6 +1,6 @@
 {
   "name": "@othent/warp-contracts-plugin-jwt-verify",
-  "version": "1.0.3",
+  "version": "1.0.401",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
